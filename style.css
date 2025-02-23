@@ -1,0 +1,20 @@
+@charset "UTF-8";
+
+body {
+    background-color: #dfdf13d3;
+    color: #000000;
+    font-size: 2em;
+    margin: 1em;
+    padding: 2em;
+    border: 1em solid #0000ff91;
+}
+
+h2 {
+    color: #b07fff;
+    border: 0.3em solid #f74f01;
+}
+
+p {
+    color: #16c238;
+
+}
